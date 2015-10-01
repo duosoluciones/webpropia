@@ -9,7 +9,7 @@
 	$message 	= $_POST["message"];
 	//$para  		= 'catupe77@hotmail.com'; // atención a la coma
 
-	// título
+	// 
 	$titulo = 'Mensaje enviado desde la web';
 
 	// mensaje
